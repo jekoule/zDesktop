@@ -1,8 +1,8 @@
 {
 	"phrases": [
-		"About Zulip",
+		"About Kashta",
 		"Actual Size",
-		"Add a Zulip organization",
+		"Add a Kashta organization",
 		"Add Organization",
 		"Add custom CSS",
 		"Add Custom Certificates",
@@ -25,7 +25,7 @@
 		"Connect to another organization",
 		"Connected organizations",
 		"Copy",
-		"Copy Zulip URL",
+		"Copy Kashta URL",
 		"Create a new organization",
 		"Cut",
 		"Default download location",
@@ -60,7 +60,7 @@
 		"Log Out of Organization",
 		"Manual proxy configuration",
 		"Minimize",
-		"Mute all sounds from Zulip",
+		"Mute all sounds from Kashta",
 		"Network",
 		"NO",
 		"OR",
@@ -72,7 +72,7 @@
 		"Proxy bypass rules",
 		"Proxy rules",
 		"Quit",
-		"Quit Zulip",
+		"Quit Kashta",
 		"Redo",
 		"Release Notes",
 		"Reload",
@@ -95,11 +95,11 @@
 		"Show downloaded files in file manager",
 		"Show sidebar",
 		"Start app at login",
-		"These desktop app shortcuts extend the Zulip webapp's",
+		"These desktop app shortcuts extend the Kashta webapp's",
 		"This will delete all application data including all added accounts and preferences",
 		"Tip",
 		"Toggle DevTools for Active Tab",
-		"Toggle DevTools for Zulip App",
+		"Toggle DevTools for Kashta App",
 		"Toggle Do Not Disturb",
 		"Toggle Full Screen",
 		"Toggle Sidebar",
@@ -115,6 +115,6 @@
 		"YES",
 		"Zoom In",
 		"Zoom Out",
-		"Zulip Help"
+		"Kashta Help"
 	]
 }
